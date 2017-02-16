@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# αλλαγή 
 class Vechile:
      def __init__(self,color,price,speed,idioktitis):
         self.color=color
