@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# αλλαγή 
+# από την σελίδα 197 του βιβλίου
 class Vechile:
      def __init__(self,color,price,speed,idioktitis):
         self.color=color
